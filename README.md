@@ -8,5 +8,5 @@
 You can download the experimental firmware images via https://pan.baidu.com/s/1wwEZYOImgxkDzSjpVvRukA with a password: bhng
 
 # Note
-1.The experiment was done in July 2018. Some of the published data may be outdated in future tests.
+1.The experiment was done in July 2018. Some of the published data may be outdated in future tests.   
 2.Main modules of FEWA are scheduled to be open source after the conference.
